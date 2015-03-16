@@ -1,0 +1,19 @@
+{
+	"category" : "game",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parentModel",
+		"rowNum",
+		"colNum",
+		"filledCellCount",
+		"currentFill",
+		"winner" ],
+	"name" : "TicTacToeCell",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

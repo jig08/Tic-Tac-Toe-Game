@@ -1,0 +1,16 @@
+{
+	"category" : "game",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"filledCellCount",
+		"currentFill",
+		"winner" ],
+	"name" : "TicTacToeModel",
+	"pools" : [
+		 ],
+	"super" : "Matrix",
+	"type" : "normal" }

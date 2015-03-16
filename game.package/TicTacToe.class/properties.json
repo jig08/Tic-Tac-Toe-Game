@@ -1,0 +1,15 @@
+{
+	"category" : "game",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"container",
+		"model" ],
+	"name" : "TicTacToe",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
