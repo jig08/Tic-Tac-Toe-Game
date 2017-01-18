@@ -9,4 +9,4 @@ So , here we make a Pharo version of this well-known game by using Morph. This p
 * This tutorial has been included as a chapter in  [Fun With Pharo!](https://github.com/SquareBracketAssociates/FunWithPharo/tree/master/TicTacToe)
 * Help appreciated to polish it more, it's still in its baby stage.
 
-Read more about how to build it from scratch : [jigyasagrover.wordpress.com/tictactoe-tutorial-funwithpharo/)(https://jigyasagrover.wordpress.com/2015/04/06/tictactoe-tutorial-funwithpharo/)
+Read more about how to build it from scratch : [jigyasagrover.wordpress.com/tictactoe-tutorial-funwithpharo](https://jigyasagrover.wordpress.com/2015/04/06/tictactoe-tutorial-funwithpharo/)
